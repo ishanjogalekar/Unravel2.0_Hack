@@ -29,7 +29,7 @@ pip install seaborn
 ### To run the code
 
 ```python
-python3 Unravel2.0.py
+python3 Unravel2.0_Graphs.py
 ```
 ```python
 python3 Unravel2.0-Data Analytcis.py
