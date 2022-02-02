@@ -26,11 +26,8 @@ pip install seaborn
 
 <br>
 
-### To run the code
+### To run the programs
 
-```python
-python3 Unravel2.0_Graphs.py
 ```
-```python
-python3 Unravel2.0-Data Analytcis.py
+Use jupyter notebook on local machine or Google Collab machine
 ```
