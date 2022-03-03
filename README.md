@@ -32,7 +32,7 @@ pip install seaborn
 ### To run the programs
 
 ```
-Use jupyter notebook on local machine or Google Collab machine
+Use jupyter notebook on local machine or Google Colab machine
 ```
 <br>
 
