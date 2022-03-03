@@ -2,6 +2,9 @@
 
 
 ## Team Rangers
+**Team members:**
+1. Anshuman Phadke
+2. Ishan Jogalekar
 ### To install the dependencies
 
 ```python
